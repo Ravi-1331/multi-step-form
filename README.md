@@ -18,14 +18,8 @@ complete with desktop and mobile responsiveness.
 - Tailwind CSS
 - TypeScript
 
-## Use cases
-
-### How to add it into my project ?
-
-You can install the component using the Shadcn CLI
-```bash
-npx shadcn add https://multistep-form-sooty.vercel.app/registry/multistep-01.json
-```
+## Step 1
+npm install
 
 ## How to use it ?
 
