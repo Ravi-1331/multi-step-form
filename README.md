@@ -1,4 +1,4 @@
-# [Shadcn/ui x NextJS 15 multistep form](https://multistepform.younesfakallah.fr) &middot; [![Author Younès](https://img.shields.io/badge/Author-Younès-%3C%3E)](https://younesfakallah.fr/blog)
+# [Shadcn/ui x NextJS 15 multistep form](https://multistepform.younesfakallah.fr) &middot; [![Author Ravi](https://img.shields.io/badge/Author-Younès-%3C%3E)](https://younesfakallah.fr/blog)
 
 A multi-step form for Next.js built on top of [shadcn/ui](https://ui.shadcn.com)
 complete with desktop and mobile responsiveness.
