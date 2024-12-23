@@ -58,6 +58,10 @@ export function Login() {
   return <Button onClick={goToNextStep}>Next step</Button>;
 }
 ```
+## project image
+![Screenshot 2024-12-24 000514](https://github.com/user-attachments/assets/dac98bfa-474b-4ee8-90a2-f15695463205)
+
+![Screenshot 2024-12-24 000524](https://github.com/user-attachments/assets/16bbd717-42b9-4a35-9c78-a7e62305d34f)
 
 You also have to add some description about your steps inside `headerData` object
 you will find it inside `@/components/step-header.tsx`.
